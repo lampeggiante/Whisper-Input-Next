@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "40fc966b6ae1410ccc8d9439d13ed9e349a8568f",
+  "prompts": {},
+  "humans": {
+    "h_ccc3dd0c943abd": {
+      "author": "yuxingliang.clyde <yuxingliang.clyde@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
